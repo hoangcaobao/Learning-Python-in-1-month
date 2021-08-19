@@ -1,5 +1,5 @@
 # EGR101-VietCodeAcademy
-I desgin EGR101 courses (Introduction to programming Python) for starters to learn Python in easiest and fatest way.
+I desgin EGR101 courses (Introduction to programming Python) for begineers to learn Python in easiest and fatest way.
 
 ## Course syllabus:
 |Week  | Topic | Practice | Homework | Slide |
