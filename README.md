@@ -13,6 +13,5 @@ I desgin EGR101 courses (Introduction to programming Python) for starters to lea
 |4| Function | inclass5.py | homework5.py | class5.pdf |
 |4| Dictionary | inclass6.py | homework6.py | class6.pdf|
 |5| Final project | project.py | | |
-|5| Final test | Google form: | | |
 
 
